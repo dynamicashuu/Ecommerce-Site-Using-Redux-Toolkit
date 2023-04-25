@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+Use sunil as the user and 123 as the password .
+
+
+
+link of the deployment --      https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=master&deploymentUrl=ecommerce-site-using-redux-toolkit-7vj944byh-dynamicashuu.vercel.app&projectName=ecommerce-site-using-redux-toolkit&s=https%3A%2F%2Fgithub.com%2Fdynamicashuu%2FEcommerce-Site-Using-Redux-Toolkit&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
